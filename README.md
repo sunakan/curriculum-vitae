@@ -23,54 +23,46 @@
 
 ### 言語
 
-Ruby / Java / JavaScript / Bash / CoffeeScript / Groovy / C#
+|value|
+|:--:|
+|Ruby|
+|Java|
+|JavaScript|
+|Bash|
+|CoffeeScript|
+|Groovy|
+|C#|
 
 ### フレームワークやライブラリ
 
-#### バックエンド
-
-Ruby on Rails / Grails / Sinatra / Padrino
-
-#### フロントエンド
-
-jQuery / d3.js / Bootstrap
-
-#### モバイルアプリ
-
-Unity
+|key|value|
+|:---|:---|
+|バックエンド|Ruby on Rails / Grails / Sinatra / Padrino|
+|フロントエンド|jQuery / d3.js / Bootstrap|
+|モバイルアプリ|Unity|
 
 ### その他
 
-#### 全般
-
-GitHub / Docker / Makefile
-
-#### RDB/NoSQL
-
-MySQL / SQLServer / Redis
-
-#### ミドルウェア系
-
-Solr / Fluentd / Nginx
-
-#### DevOps・監視系
-
-Jenkins / webistrano
-
-#### クラウド
-
-AWS ECS / AWS CloudFront / AWS S3 / Terraform
+|key|value|
+|:---|:---|
+|全般|GitHub / Docker / Makefile / Redmine|
+|RDB/NoSQL|MySQL / SQLServer / Redis|
+|ミドルウェア系|Solr / Fluentd / Nginx|
+|DevOps・監視系|Jenkins / Webistrano|
+|クラウド|ECS / CloudFront / S3 / Terraform|
 
 ## 実務でやったことはないが興味があるもの
 
-- Argo Workflowを使ったバッチ基盤の作成
-- クラウドネイティブなCI/CD基盤の構築
-- k8sの監視基盤の構築
-- AWSマルチアカウント運用
-- DDDでのチーム開発
-- クリーンアーキテクチャを採用したチーム開発
-- Elmによるフロントエンド開発
-- Rust/Golangによるバックエンド開発
+|value|
+|:---|
+|Argo Workflowを使ったバッチ基盤の作成|
+|クラウドネイティブなCI/CD基盤の構築|
+|k8sの監視基盤の構築|
+|AWSマルチアカウント運用|
+|DDDでのチーム開発|
+|クリーンアーキテクチャを採用したチーム開発|
+|Elmによるフロントエンド開発|
+|Rust/Golangによるバックエンド開発|
 
 ## 主な職務経歴
 
