@@ -14,6 +14,9 @@
 - 2019年の後半は約週4,5の頻度で勉強会に参加しておりました
   - コロナ禍でも、オンライン勉強会に参加し、仲の良い人たちで週1で9:00-17:00で勉強会をしています
 
+![](https://github-readme-stats.vercel.app/api?username=sunakan&count_private=true&theme=buefy&show_icons=true)
+
+
 ### 利他意識が強めです
 
 - 学んだ技術を積極的に周囲に共有することに積極的です
