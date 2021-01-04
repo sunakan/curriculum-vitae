@@ -43,9 +43,9 @@
 
 ## 基本情報
 
-Name: sunakan
+### 名前：sunakan
 
-|メインで利用しているアウトプットサービス||概要|
+|メインで利用しているアウトプットサービス|使いかた|
 |:---|:---|
 |[Lapras/sunakan](https://lapras.com/public/ZQTTQGP)|ざっくりとした自分のアウトプットのまとめリンク集として使っています|
 |[Github/sunakan](https://github.com/sunakan)|簡単なものでもとりあえずコミットとして残しています|
