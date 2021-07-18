@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=sunakan&count_private=true&theme=buefy&show_icons=true)
 
 
-### 利他意識が強めです
+### 利他意識が強いです
 
 - 学んだ技術を積極的に周囲に共有することに積極的です
 - 勉強会等の自由参加の場でも、疑問や質問をこちらから掘り出し積極的に知識共有します
